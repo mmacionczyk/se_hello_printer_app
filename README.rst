@@ -112,7 +112,7 @@ Materiały
 Badge StatusCake
 
 .. image: https://app.statuscake.com/button/index.php?Track=FvrOHgfJuu&Days=1&Design=1
-    :target: https://app.statuscake.com
+    :target: https://www.statuscake.com
 
 Badge TravisCI
 
