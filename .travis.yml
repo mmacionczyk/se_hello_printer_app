@@ -5,8 +5,8 @@ install:
   - make deps
 script:
   - make test
+  - test_xunit
 deploy:
   provider: heroku
   app: serene-fortress-19655
   api_key: ${HEROKU_API_KEY}
-make: test_xunit
