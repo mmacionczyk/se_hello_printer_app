@@ -3,7 +3,7 @@ from formater import get_formatted
 from formater import SUPPORTED, PLAIN
 from flask import request
 
-moje_imie = "Michalina"
+moje_imie = "Marcelina"
 msg = "Witaj swiecie!"
 
 
